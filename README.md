@@ -36,8 +36,7 @@ A full-stack, modern Content Management System (CMS) specifically designed for j
 - **Content Creation (`/create-post`)**: Protected behind (`AdminPrivateRoute`). Journalists use the integrated rich-text editor (React Quill) to format content and embed media seamlessly. Media is handled on the backend via Cloudinary.
 - **Content Management (`/update-post/:postId`)**: Direct access to edit, update, or unpublish existing content.
 
-ok 
-ok
+ 
 ---
 
 ## 📂 File Structure
